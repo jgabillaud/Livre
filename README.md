@@ -13,6 +13,9 @@ Dans la collection **Expert IT**, le livre s’adresse à des personnes qui ont 
 ![Logo](https://img.shields.io/badge/Collection-EP-gray)
 Dans la collection **Epsilon**, le public visé sera à définir avec Éditions ENI. Le choix de placer un livre dans cette collection ne se fait pas uniquement pour une question de « niveau » du contenu du livre.
 
+![Logo](https://img.shields.io/badge/Data%20Pro-green)
+Chaque livre de la collection **Data Pro** s’adresse à un public d’informaticiens qui souhaitent évoluer dans leur métier et acquérir de nouvelles compétences qui ne sont pas liées à un produit (OS, serveur…) ou à un langage, mais plutôt à des méthodes et pratiques liées au métier d’informaticien (gestion de projet, ITIL, etc.).
+
 # Les éléments à nous présenter pour valider votre projet d’écriture
 ## Tables des matières
 
