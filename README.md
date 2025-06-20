@@ -31,3 +31,7 @@ Un exemple doit finir l’explication ; cet exemple est présent pour illustrer 
 
 # Les éléments complémentaires de votre livre
 ## Quizz
+## Ressources et outils
+Voici quelques outils que vous pouvez utiliser pour vous faciliter votre travail
+Captue d'écran : GreenShot : https://getgreenshot.org/downloads/ 
+Mise en forme du code : https://carbon.now.sh
